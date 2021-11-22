@@ -15,7 +15,7 @@ class Receive
              channel.QueueDeclare
              (
                 queue: queueName,
-                 durable: false,
+                 durable: true,
                  exclusive: false,
                  autoDelete: true,
                  arguments: null
@@ -29,11 +29,13 @@ class Receive
                 Console.WriteLine($" Received: {message}");
             };     
 
-            channel.BasicConsume(
-                queue: queueName,
-                autoAck: true,
-                consumer: consumer
-            );            
+            while (true)
+            {
+                channel.BasicConsume(
+                    queue: queueName,
+                    autoAck: true,
+                    consumer: consumer);  
+            }          
         }
     }
 

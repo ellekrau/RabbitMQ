@@ -12,21 +12,31 @@ class Send
 
             channel.QueueDeclare(
                 queue: queueName,
-                durable: false,
+                durable: true,
                 exclusive: false,
                 arguments: null
             );
 
-            var message = "Jaine";
-            
-            channel.BasicPublish(
-                exchange: string.Empty,
-                routingKey: queueName,
-                basicProperties: null,
-                body: Encoding.UTF8.GetBytes(message)
-            );
+            var message = string.Empty;
 
-            Console.WriteLine($" Sent message: {message}");
+            while (true)
+            {
+                Console.Write("\n Insert a message: ");
+                message = Console.ReadLine();
+
+                if (!string.IsNullOrEmpty(message))
+                {
+                    channel.BasicPublish(
+                    exchange: string.Empty,
+                    routingKey: queueName,
+                    basicProperties: null,
+                    body: Encoding.UTF8.GetBytes(message));
+
+                    Console.WriteLine($" Sent message: {message}");
+                } else {
+                    Console.WriteLine(" Invalid message!");
+                }
+            }
         }
     }
     
