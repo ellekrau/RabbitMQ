@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\Send.exe
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\Send.deps.json
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\Send.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\ref\Send.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\Send.pdb
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\ref\Send.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.pdb
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache

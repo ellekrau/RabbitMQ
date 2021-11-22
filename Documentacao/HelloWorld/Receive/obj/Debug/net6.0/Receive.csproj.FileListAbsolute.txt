@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\Receive.exe
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\Receive.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\ref\Receive.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\Receive.pdb
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\ref\Receive.dll
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.pdb
+C:\Git\RabbitMQ\Documentacao\HelloWorld\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
