@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\Worker.exe
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\Worker.dll
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\ref\Worker.dll
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.dll
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\ref\Worker.dll
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Git\RabbitMQ\Documentacao\WorkQueues\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
