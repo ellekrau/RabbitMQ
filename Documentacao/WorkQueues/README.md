@@ -36,5 +36,6 @@ Importante: O comando Console.ReadLine está segurando a Thread e faz com que o 
 3. dotnet build
 4. dotnet run
 
+
 ![image](https://user-images.githubusercontent.com/52663536/143356247-ce4c15e8-4556-4ea6-89f2-357ead236065.png)
 
