@@ -15,7 +15,7 @@ class NewTask
                 queue: routingKey,
                 durable: false,
                 exclusive: false,
-                autoDelete: true
+                autoDelete: false
             );
 
             var properties = channel.CreateBasicProperties();
@@ -24,7 +24,7 @@ class NewTask
             while(true)
             {
                 channel.BasicPublish(
-                    exchange: string.Empty,
+                    exchange: "",
                     routingKey: routingKey,
                     basicProperties: properties,
                     body: Encoding.UTF8.GetBytes(GetMessage())

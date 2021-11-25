@@ -1,7 +1,6 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
-using System.Threading;
 
 class Worker
 {
@@ -17,7 +16,7 @@ class Worker
                 queue: routingKey,
                 durable: false,
                 exclusive: false,
-                autoDelete: true
+                autoDelete: false
             );
 
             var consumer = new EventingBasicConsumer(channel);
@@ -37,10 +36,9 @@ class Worker
                 Console.WriteLine("======================================");
             };
 
-            while (true)
-            {
-                channel.BasicConsume(queue: routingKey, autoAck: true, consumer: consumer);
-            }
+            channel.BasicConsume(queue: routingKey, autoAck: true, consumer: consumer);
+
+            Console.ReadLine();
         }
     }
 }
