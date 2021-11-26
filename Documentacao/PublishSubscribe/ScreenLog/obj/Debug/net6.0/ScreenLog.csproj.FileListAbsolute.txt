@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ScreenLog.exe
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ScreenLog.deps.json
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ScreenLog.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ScreenLog.dll
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ref\ScreenLog.dll
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\ScreenLog.pdb
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.dll
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ref\ScreenLog.dll
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.pdb
+C:\Git\RabbitMQ\Documentacao\PublishSubscribe\ScreenLog\obj\Debug\net6.0\ScreenLog.genruntimeconfig.cache

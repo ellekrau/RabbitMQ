@@ -19,6 +19,8 @@ class Worker
                 autoDelete: false
             );
 
+            channel.BasicQos(0, 1, false);
+
             var consumer = new EventingBasicConsumer(channel);
 
             consumer.Received += (model, ea) =>
@@ -31,7 +33,7 @@ class Worker
                 
                 Console.WriteLine(" Starting...");
                 Thread.Sleep(sleepTime);
-                Console.WriteLine(" Done!")
+                Console.WriteLine(" Done!");
 
                 Console.WriteLine("======================================");
 
