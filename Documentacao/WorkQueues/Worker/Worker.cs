@@ -31,12 +31,14 @@ class Worker
                 
                 Console.WriteLine(" Starting...");
                 Thread.Sleep(sleepTime);
-                Console.WriteLine(" Done!");
+                Console.WriteLine(" Done!")
 
                 Console.WriteLine("======================================");
+
+                channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
             };
 
-            channel.BasicConsume(queue: routingKey, autoAck: true, consumer: consumer);
+            channel.BasicConsume(queue: routingKey, autoAck: false, consumer: consumer);
 
             Console.ReadLine();
         }
