@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\HighPriorityLogs.exe
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\HighPriorityLogs.deps.json
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\HighPriorityLogs.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\HighPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\ref\HighPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\HighPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\ref\HighPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\HighPriorityLogs\obj\Debug\net6.0\HighPriorityLogs.genruntimeconfig.cache

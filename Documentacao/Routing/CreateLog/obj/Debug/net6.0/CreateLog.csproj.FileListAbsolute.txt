@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\CreateLog.exe
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\CreateLog.deps.json
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\CreateLog.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\CreateLog.dll
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\ref\CreateLog.dll
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\CreateLog.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.dll
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\ref\CreateLog.dll
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\CreateLog\obj\Debug\net6.0\CreateLog.genruntimeconfig.cache

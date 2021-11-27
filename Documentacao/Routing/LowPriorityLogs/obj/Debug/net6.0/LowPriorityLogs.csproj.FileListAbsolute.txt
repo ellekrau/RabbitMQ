@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\LowPriorityLogs.exe
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\LowPriorityLogs.deps.json
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\LowPriorityLogs.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\LowPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\ref\LowPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\LowPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\ref\LowPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\LowPriorityLogs\obj\Debug\net6.0\LowPriorityLogs.genruntimeconfig.cache

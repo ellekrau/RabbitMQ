@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\MediumPriorityLogs.exe
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\MediumPriorityLogs.deps.json
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\MediumPriorityLogs.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\MediumPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\ref\MediumPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\MediumPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\ref\MediumPriorityLogs.dll
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Routing\MediumPriorityLogs\obj\Debug\net6.0\MediumPriorityLogs.genruntimeconfig.cache

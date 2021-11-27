@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Ocr/bxTK8LPIocnjxULFM4Yx+clbw7NxUl428OuMFzPHTgweBU7mUIvJ/baUP7ocUkvKxwJvfC3nO2ZyP93Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\RabbitMQ\\Documentacao\\Routing\\HighPriorityLogs\\HighPriorityLogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ellek\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\ellek\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ellek\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
