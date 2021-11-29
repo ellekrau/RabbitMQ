@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.exe
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.deps.json
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.dll
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ref\ReceiveLogs.dll
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.dll
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ref\ReceiveLogs.dll
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.pdb
+C:\Git\RabbitMQ\Documentacao\Topics\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.genruntimeconfig.cache
