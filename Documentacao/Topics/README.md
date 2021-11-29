@@ -6,7 +6,7 @@ Implementação guiada pela documentação do RabbitMQ: https://www.rabbitmq.com
 
 ### Implementação
 
-Criação de consumers "seletivos" de recebimento dos logs.
+Criação de consumers "seletivos" de recebimento dos logs com a utilização de uma exchange do tipo Topic.
 
 Producer: Criação de logs com os a identificação da máquina (ZAYA, BETA e ORIO) e grau de severidade (ERROR, WARN e INFO).
 Envio desses logs para uma exchange do tipo TOPIC, com o valor de severidade + id da máquina como routing key (Ex.: ZAYA.ERROR).
