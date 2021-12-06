@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RPCClient.exe
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RPCClient.deps.json
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RPCClient.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RPCClient.dll
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\ref\RPCClient.dll
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RPCClient.pdb
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.dll
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\ref\RPCClient.dll
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.pdb
+C:\Git\RabbitMQ\Documentacao\RPCServer\RPCClient\obj\Debug\net6.0\RPCClient.genruntimeconfig.cache
