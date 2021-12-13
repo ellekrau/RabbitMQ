@@ -1,0 +1,17 @@
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\Client.exe
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\Client.deps.json
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\Client.dll
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\ref\Client.dll
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\Client.pdb
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.dll
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.pdb
+C:\Git\RabbitMQ\Documentacao\PublisherConfirms\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
